@@ -7,8 +7,9 @@
 **🌐 在线体验**：https://RayD-123.github.io/christmas-magic/  
 （需要摄像头权限，建议使用 Chrome / Edge）
 
-<!-- 动图占位：录好后替换成 ![Demo](assets/demo.gif) -->
+**🎬 完整演示视频**：[点击观看 40 秒完整版](https://youtu.be/Nu9sbe1PvrU)
 
+**📸 礼盒开启演示**：[点击观看打开照片的过程](https://youtu.be/tmJvy7oEalY)
 ---
 
 ## ✨ 玩法
