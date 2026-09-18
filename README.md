@@ -1,4 +1,4 @@
-# 🎄 Christmas Magic — 手势交互圣诞树
+# 🎄 Interactive-3D-Christmas-Tree — 手势交互圣诞树
 
 **中文** | [English](./README.en.md)
 
