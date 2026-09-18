@@ -2,7 +2,7 @@
 
 > 用双手点亮一棵圣诞树。握拳成树、张手成银河、双手比心，注视礼盒就能打开藏着照片的礼物。
 
-**🌐 在线体验**：https://你的用户名.github.io/christmas-magic/  
+**🌐 在线体验**：https://RayD-123.github.io/christmas-magic/  
 （需要摄像头权限，建议使用 Chrome / Edge）
 
 <!-- 动图占位：录好后替换成 ![Demo](assets/demo.gif) -->
