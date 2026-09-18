@@ -7,7 +7,9 @@
 **🌐 Live Demo**: https://RayD-123.github.io/christmas-magic/  
 (Webcam access required. Chrome / Edge recommended.)
 
-<!-- Placeholder: replace with ![Demo](assets/demo.gif) once recorded -->
+**🎬 Full Demo Video**: [Watch the 40s full demo](https://youtu.be/Nu9sbe1PvrU)
+
+**📸 Gift Opening Demo**: [Watch the photo reveal](https://youtu.be/tmJvy7oEalY)
 
 ---
 
