@@ -2,7 +2,7 @@
 
 > Light up a Christmas tree with your hands. Fist for tree, open hand for galaxy, heart gesture for pink heart, and gaze at a gift box to open the photo inside.
 
-**中文** | [English](./README.md)
+[中文](./README.md) | **English**
 
 **🌐 Live Demo**: https://RayD-123.github.io/christmas-magic/  
 (Webcam access required. Chrome / Edge recommended.)
