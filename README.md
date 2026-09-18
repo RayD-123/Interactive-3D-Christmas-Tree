@@ -1,5 +1,7 @@
 # 🎄 Christmas Magic — 手势交互圣诞树
 
+**中文** | [English](./README.en.md)
+
 > 用双手点亮一棵圣诞树。握拳成树、张手成银河、双手比心，注视礼盒就能打开藏着照片的礼物。
 
 **🌐 在线体验**：https://RayD-123.github.io/christmas-magic/  
