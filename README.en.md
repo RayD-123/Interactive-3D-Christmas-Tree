@@ -1,4 +1,4 @@
-# 🎄 Christmas Magic — Gesture-Controlled Christmas Tree
+# 🎄 Interactive-3D-Christmas-Tree — Gesture-Controlled Christmas Tree
 
 > Light up a Christmas tree with your hands. Fist for tree, open hand for galaxy, heart gesture for pink heart, and gaze at a gift box to open the photo inside.
 
