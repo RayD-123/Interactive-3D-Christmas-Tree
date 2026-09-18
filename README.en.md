@@ -4,7 +4,7 @@
 
 [中文](./README.md) | **English**
 
-**🌐 Live Demo**: https://RayD-123.github.io/christmas-magic/  
+**🌐 Live Demo**: [https://RayD-123.github.io/christmas-magic/](https://rayd-123.github.io/Interactive-3D-Christmas-Tree/)   
 (Webcam access required. Chrome / Edge recommended.)
 
 **🎬 Full Demo Video**: [Watch the 40s full demo](https://youtu.be/Nu9sbe1PvrU)
